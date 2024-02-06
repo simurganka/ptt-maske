@@ -1,0 +1,7 @@
+C:\Users\NURSİMA AKBAŞ\Source\Repos\Solution1\Uygulama3\bin\Debug\Uygulama3.exe.config
+C:\Users\NURSİMA AKBAŞ\Source\Repos\Solution1\Uygulama3\bin\Debug\Uygulama3.exe
+C:\Users\NURSİMA AKBAŞ\Source\Repos\Solution1\Uygulama3\bin\Debug\Uygulama3.pdb
+C:\Users\NURSİMA AKBAŞ\Source\Repos\Solution1\Uygulama3\obj\Debug\Uygulama3.csproj.AssemblyReference.cache
+C:\Users\NURSİMA AKBAŞ\Source\Repos\Solution1\Uygulama3\obj\Debug\Uygulama3.csproj.CoreCompileInputs.cache
+C:\Users\NURSİMA AKBAŞ\Source\Repos\Solution1\Uygulama3\obj\Debug\Uygulama3.exe
+C:\Users\NURSİMA AKBAŞ\Source\Repos\Solution1\Uygulama3\obj\Debug\Uygulama3.pdb
